@@ -318,7 +318,8 @@ print(predict_new(sample))
 
 ```
 # OUTPUT:
-<img width="1361" height="416" alt="image" src="https://github.com/user-attachments/assets/ffbad602-ecd5-4e6c-bdf6-146edbcd2939" />
+![WhatsApp Image 2025-09-30 at 09 17 00_a67606b4](https://github.com/user-attachments/assets/bc99ab6e-346a-4c03-8bb3-2e14f804ab48)
+
 
 <img width="648" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd6b70a-4693-4b2a-bb5b-d6147957cfdd" />
 
