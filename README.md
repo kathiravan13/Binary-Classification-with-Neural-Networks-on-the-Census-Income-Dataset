@@ -104,8 +104,8 @@ Reported loss and accuracy.
 # Program:
 ```
 
-print("Name: MURALI S")
-print("Register No: 212222230088\n")
+print("Name: Kathiravan")
+print("Register No: 212222230063\n")
 ```
 ```
 #1. Imports
@@ -123,8 +123,8 @@ import matplotlib.pyplot as plt
 # 2. Load Data
 
 df = pd.read_csv("income (1).csv")
-print('Name:MURALI S')
-print('Register Number: 212222230088')
+print('Name:Kathiravan')
+print('Register Number: 212222230063')
 print("Dataset shape:", df.shape)
 print(df.head())
 
